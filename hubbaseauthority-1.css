@@ -48,6 +48,29 @@ body {
   padding: 0 20px;
 }
 
+.site-footer .navigation p {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 16px;
+  padding: 0 20px;
+}
+
 .blogpagemain ins {
 	color: #ff00ff;
+}
+
+.l {
+	text-align: left;
+}
+
+.l .topage nav{
+	font-size: 16px;
+}
+
+.bp {
+	padding-bottom: 12px;
+}
+
+.ml {
+	margin-left: 30px;
 }
