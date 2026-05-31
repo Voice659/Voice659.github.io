@@ -75,3 +75,7 @@ body {
 	margin-left: 30px;
 }
 
+.section-end {
+  border-top: 2px solid #cccccc;
+  padding-top: 12px;
+}
